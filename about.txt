@@ -1,0 +1,4 @@
+Add about.txt with personal info
+
+this is my first git repo and i am a student at PML
+
